@@ -10,5 +10,5 @@ yes|pkg install python
 cd magmaosint/
 chmod +x combined.sh
 bash combined.sh
-python osint.py
+python3 osint.py
 ```
